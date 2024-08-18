@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BF1C899D-9D79-4B51-BD3F-9AD0B15C56EC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63D4270F-5854-4ED2-ADE4-93DD07D8387D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "duancuoikhoa1/vcBMI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "calculateBMIBtn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "63D4270F-5854-4ED2-ADE4-93DD07D8387D - ae16a0a2efa2ab59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "duancuoikhoa1.vcBMI.calculateBMIBtn(__C.UIButton) -&gt; ()"
+                  moduleName = "duancuoikhoa1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minhhuy/Desktop/huy/duancuoikhoa1/duancuoikhoa1/vcBMI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30">
+               </Location>
+               <Location
+                  uuid = "63D4270F-5854-4ED2-ADE4-93DD07D8387D - ae16a0a2efa2ab59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "duancuoikhoa1.vcBMI.calculateBMIBtn(__C.UIButton) -&gt; ()"
+                  moduleName = "duancuoikhoa1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minhhuy/Desktop/huy/duancuoikhoa1/duancuoikhoa1/vcBMI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93EC1AB2-7810-478C-A555-EFF3FA06FC97"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "duancuoikhoa1/vcBMI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "calculateBMIBtn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94E6A9BD-0D0E-4C25-94F7-5AD59F50CAA3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "duancuoikhoa1/vcBMI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "calculateBMIBtn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
